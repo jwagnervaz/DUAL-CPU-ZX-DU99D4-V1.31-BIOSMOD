@@ -1,4 +1,7 @@
 RAM SET FROM AUTO TO 2400 (limit of xeon platform)
+
+NOTE:
+IF YOUR PROCESSOR HAS A E5 V3 PROCESSOR THEN YOUR MAX RAM IS 2133
 Microcodes updated from stock bios for Rev. 0xB000040
 The build booted as you can see in ► Intel SA-00233 Patched ◄  https://valid.x86.fr/l9bhpr
 
