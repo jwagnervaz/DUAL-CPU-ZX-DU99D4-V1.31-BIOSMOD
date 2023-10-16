@@ -1,8 +1,8 @@
 
-Changelogs
+Changelogs:
 
 -------------------------------------------
-Fixes
+Fixes:
 
 1 - CPU Microcode updated
  
@@ -21,9 +21,9 @@ Fixes
 8 - Overclock Settings ( Take Care)
 
 
-Bugs 
+Bugs:
 
-These are bug that alerdy exist on this board
+(These are bug that alerdy exist on this board)
 
 1 - Sleep mode
 
