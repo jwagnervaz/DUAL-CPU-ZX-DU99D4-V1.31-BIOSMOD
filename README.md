@@ -1,7 +1,7 @@
 
 Changelogs
 
-|   1 - CPU Microcode updated   | 
+-------------------------------------------|   1 - CPU Microcode updated   | 
 |   2 - UEFI boot mode fixed.   |  
 3 - Memory Timmings Functions enabled
 4 - Rebar Enabled
