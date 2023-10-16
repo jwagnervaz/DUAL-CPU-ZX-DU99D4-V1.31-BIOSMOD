@@ -21,7 +21,10 @@ Fixes:
 8 - Overclock Settings ( Take Care)
 
 
+
 Bugs:
+
+
 
 (These are bug that alerdy exist on this board)
 
