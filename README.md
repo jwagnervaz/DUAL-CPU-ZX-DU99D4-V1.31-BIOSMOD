@@ -1,3 +1,28 @@
+
+Changelogs
+
+1 - CPU Microcode updated
+2 - UEFI boot mode fixed
+3 - Memory Timmings Functions enabled
+4 - Rebar Enabled
+5 - C6 Retention Enabled
+6 - ME Region Updated to Latest from Intel
+7 - Boot time improved
+8 - Overclock Settings ( Take Care)
+
+Bugs 
+
+These are bug that alerdy exist on this board
+
+1 - Sleep mode
+2 - Bad Ram Compatibility
+3 - Long time to boot
+4 - CMOS dont save if you lose power
+5 - You tell me!
+
+
+
+
 # DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD
 BIOSMOD for DUAL CPU ZX-DU99D4 V1.31 
 
