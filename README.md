@@ -10,7 +10,7 @@ Fixes:
 
 3 - Memory Timmings Functions enabled
 
-4 - Rebar Enabled
+4 - REBAR support integraded (credits to https://github.com/xCuri0/ReBarUEFI) so for use this function you need a GPU compatible and use xCuri0 application to set rebar size) 
 
 5 - C6 Retention Enabled
 
