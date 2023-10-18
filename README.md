@@ -22,6 +22,10 @@ Fixes:
 
 9 - RTC Wakeup Working
 
+10 - IMC Updated
+
+11 - ME Region Updated
+
 -------------------------------------------
 
 Bugs:
