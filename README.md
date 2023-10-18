@@ -34,7 +34,7 @@ Bugs:
 
 3 - Long time to boot
 
-4 - CMOS dont save if you lose power
+4 - CMOS dont save if you loose power
 
 5 - You tell me!
 
