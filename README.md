@@ -20,6 +20,8 @@ Fixes:
 
 8 - Overclock Settings ( Take Care)
 
+9 - RTC Wakeup Working
+
 -------------------------------------------
 
 Bugs:
