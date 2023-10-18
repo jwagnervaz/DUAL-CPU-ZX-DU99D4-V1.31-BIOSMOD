@@ -24,7 +24,7 @@ Fixes:
 
 10 - IMC Updated
 
-11 - ME Region Updated
+11 - ME Information Menu
 
 -------------------------------------------
 
