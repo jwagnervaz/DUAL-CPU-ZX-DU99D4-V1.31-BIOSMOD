@@ -4,7 +4,7 @@ Changelogs:
 -------------------------------------------
 Fixes:
 
-1 - CPU Microcode updated
+1 - CPU Microcode Updated for ver 0xB000038 (E5 v4) and 3D (E5 V3)
  
 2 - UEFI boot mode fixed
 
