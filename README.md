@@ -14,7 +14,7 @@ Fixes:
 
 5 - C6 Retention Enabled
 
-6 - ME Region Updated to Latest from Intel
+6 - ME UPDATED TO 3.1.3.131 (Latest provided by intel to this chipset C610/C612)
 
 7 - Boot time improved
 
