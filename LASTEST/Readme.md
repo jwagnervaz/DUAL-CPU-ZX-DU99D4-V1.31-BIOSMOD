@@ -26,7 +26,7 @@ Fixes:
 
 11 - ME Information Menu
 
-12 - BIOS updated to DU994304 thanks to dump provided by https://github.com/leiskris
+12 - BIOS updated to DU994304 thanks to dump provided by https://github.com/leiskris (05/06/2023)ZX-DU99D4 V1.3
 
 13 - Ram SET to AUTO, for E5 V3/V4 Compat.
 
