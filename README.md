@@ -30,7 +30,12 @@ Fixes:
 
 10 - IMC Updated
 
-11 - ME Information Menu
+11 - ME Information/Config Menu
+
+12 - BIOS updated to DU994304 thanks to dump provided by https://github.com/leiskris
+
+13 - Ram SET to AUTO, for E5 V3/V4 Compat.
+
 
 -------------------------------------------
 
