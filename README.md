@@ -1,3 +1,9 @@
+LASTEST FIRMWARE WILL BE ONLY HERE.
+https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/LASTEST
+
+All the other versions is for history changes.
+
+
 
 Changelogs:
 
