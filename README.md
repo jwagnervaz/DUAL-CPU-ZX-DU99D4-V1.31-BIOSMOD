@@ -57,7 +57,9 @@ Bugs:
 
 4 - CMOS dont save if you loose power
 
-5 - You tell me!
+5 - Desktop Ram its not compatible with V4 CPU's
+
+6 - You tell me!
 
 
 
