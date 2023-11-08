@@ -4,6 +4,9 @@ https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/LASTEST
 
 All the other versions is for history changes.
 
+I recomend use AFUWIN to flash.
+Make your own full Bios Dump before modding.
+
 
 
 Changelogs:
