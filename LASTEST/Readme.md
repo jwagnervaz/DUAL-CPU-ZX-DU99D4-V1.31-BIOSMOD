@@ -37,7 +37,7 @@ Bugs:
 
 
 
-(These are bug that alerdy exist on this board)
+(These are bugs that alerdy exist on this board)
 
 1 - Sleep mode
 
