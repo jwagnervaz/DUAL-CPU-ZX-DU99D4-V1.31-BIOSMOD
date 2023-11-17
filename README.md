@@ -7,7 +7,7 @@ All the other versions is for history changes.
 I recomend use AFUWIN to flash.
 Make your own full Bios Dump before modding.
 
-Importatant: After flash the rom with AFUWIN you may get error 67.
+Important: After flash the rom with AFUWIN you may get error 67.
 If this happen, press power button intill the PC turn off.
 Turn it on and Bios update will clear CMOS. 
 this will prevent your from brick.
