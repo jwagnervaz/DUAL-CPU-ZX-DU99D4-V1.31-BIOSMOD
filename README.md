@@ -20,7 +20,7 @@ Turn it on and Bios update will clear CMOS.
 this will prevent brick.
 
 all my BIOS is compatible with 
-ZX-DU99D4-V1.31,ZX-DU99D4-V1.12 (tested by @xWaRLoRDx), in teory it could work with all rev of this board till V1.31
+ZX-DU99D4-V1.31,ZX-DU99D4-V1.12 (tested by @xWaRLoRDx), in theory it could work with all rev of this board till V1.31
 
 
 
