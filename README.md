@@ -39,7 +39,7 @@ Fixes:
 
 5 - C6 Retention Enabled
 
-6 - ME UPDATED TO 3.1.3.131 (Latest provided by intel to this chipset C610/C612)
+6 - ME UPDATED TO 3.1.3.131 (Latest provided by intel to this chipset C610/C612) or  ME 9.1.45.3000 (Alternative BIOS)
 
 7 - Boot time improved
 
