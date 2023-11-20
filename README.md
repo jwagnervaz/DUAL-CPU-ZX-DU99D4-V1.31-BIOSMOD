@@ -1,4 +1,4 @@
-LASTEST FIRMWARE WILL BE ONLY HERE.
+seLASTEST FIRMWARE WILL BE ONLY HERE.
 https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/LASTEST
 (05/06/2023)ZX-DU99D4 V1.3
 this version have Server Intel ME version 3.1.3.131
@@ -6,7 +6,7 @@ this version have Server Intel ME version 3.1.3.131
 ALTERNATIVE BIOS WITH DESKTOP INTEL ME
 https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/LASTEST-NEWME9
 (05/06/2023)ZX-DU99D4 V1.3
-This have ME 9.1.45.3000 Version and new AMIBIOS BIOS base
+This have ME 9.1.45.3000 Version and new AMIBIOS BIOS base (First port in the World)
 
 
 All the other versions is for history changes.
