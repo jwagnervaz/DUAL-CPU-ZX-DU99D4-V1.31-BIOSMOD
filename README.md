@@ -1,4 +1,4 @@
-seLASTEST FIRMWARE WILL BE ONLY HERE.
+LASTEST FIRMWARE WILL BE ONLY HERE.
 https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/LASTEST
 (05/06/2023)ZX-DU99D4 V1.3
 this version have Server Intel ME version 3.1.3.131
