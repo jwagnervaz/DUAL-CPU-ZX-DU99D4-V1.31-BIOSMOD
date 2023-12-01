@@ -45,6 +45,8 @@ thanks to dump provided by https://github.com/leiskris
 
 14 - New AMIBIOS Logo.
 
+15 - CSM Capable
+
 
 -------------------------------------------
 
