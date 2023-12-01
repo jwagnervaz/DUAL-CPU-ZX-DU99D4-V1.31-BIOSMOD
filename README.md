@@ -11,7 +11,8 @@ This have ME 9.1.45.3000 Version and new AMIBIOS BIOS base (First port in the Wo
 
 All the other versions is for history changes.
 
-I recomend use AFUWIN to flash.
+I recomend use AFUWIN to flash. 
+HERE (https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/TOOL%20FLASH)
 Make your own full Bios Dump before modding.
 
 Important: After flash the rom with AFUWIN you may get error 67.
