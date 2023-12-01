@@ -43,6 +43,8 @@ thanks to dump provided by https://github.com/leiskris
 
 13 - Ram SET to AUTO, for E5 V3/V4 Compat.
 
+14 - New AMIBIOS Logo.
+
 
 -------------------------------------------
 
