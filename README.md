@@ -20,6 +20,11 @@ If this happen, press power button intill the PC turn off.
 Turn it on and Bios update will clear CMOS. 
 this will prevent brick.
 
+
+YOU NEED A GPU WITH UEFI BOOT SUPPORT.
+If you dont have, your Pc Will not BOOT.
+check compatibility WITH GPU-Z.
+
 all my BIOS is compatible with 
 ZX-DU99D4-V1.31,ZX-DU99D4-V1.12 (tested by @xWaRLoRDx), in theory it could work with all rev of this board till V1.31
 
