@@ -20,11 +20,11 @@ There are two types of ZX-DU99D4 motherboards with significant hardware differen
 - To identify your BIOS version, check it in your BIOS settings. hit (DEL) when turn your PC on and discover your version.
 
 **Compatibility Update:**
-- I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304.
+- I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304.  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
 - This allows older motherboard owners to use newer BIOS versions like (03/06/2024)ZX-DU99D4 V1.3 DU994306  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
 -  ZX-DU99D4 DU994305 AND NEWER DONT FLASH BIOS FROM HERE. I WILL DO MODS FOR THIS VERSION SOON AS POSSIBLE.
 
-
+LASTEST BIOS FOR DU994304 AND OLDERS VERSIONS  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
 ---
 OLDER VERSIONS BELLOW!
 ______________________________________________________________________
