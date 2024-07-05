@@ -30,3 +30,8 @@ Fixes:
 13 - Ram SET to AUTO, for E5 V3/V4 Compat.
 
 
+https://valid.x86.fr/u5mh7u  BIOS VALIDATION!
+
+
+
+
