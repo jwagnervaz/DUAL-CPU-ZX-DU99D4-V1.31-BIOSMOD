@@ -1,17 +1,30 @@
-ATENTION!
+Sure, here's a revised version that's clearer and more organized for GitHub:
 
-THERES SOME DIFFENT TYPES OF BORDS:
-YOU NEED 1ST OF ALL MAKE YOUR BIOS BACKUP WITH FPT HERE
+---
 
-MOTHERBOARD WITH BIOS EQUAL OR OLDER THAN (05/06/2023) ZX-DU99D4 DU994304 HAVE DIFFENT HARDWARE THAN
-MOTHERBOARD WITH BIOS EQUAL OR NEWER THAN (10/30/2023) ZX-DU99D4 DU994305
+**ATTENTION!**
 
-FLASH WRONG BIOS WILL MAKE YOU GOT ERROR (b7) or 61
+**Different Types of Boards:**
 
-to idenfify it, just enter into your bios and see your version.
+There are two types of ZX-DU99D4 motherboards with significant hardware differences based on their BIOS versions:
 
-i made a port to  motheboards  with bios older than (05/06/2023) ZX-DU99D4 DU994304
-SO THIS WAY WE (OLDER OWNERS CAN USER NEW BIOS) HERE 
+1. **For motherboards with BIOS versions equal to or older than (05/06/2023) ZX-DU99D4 DU994304:**
+   - You must first backup your BIOS using FPT. Download it [here](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/blob/main/FPT/FPT.zip) (Note: AFUWIN does not create a full backup BIOS).
+
+2. **For motherboards with BIOS versions equal to or newer than (10/30/2023) ZX-DU99D4 DU994305:**
+   - These have different hardware and BIOS compatibility.
+
+**Important Notes:**
+- Flashing the wrong BIOS version can result in errors (b7) or (61).
+- To identify your BIOS version, check it in your BIOS settings.
+
+**Compatibility Update:**
+- I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304.
+- This allows older motherboard owners to use newer BIOS versions.
+
+---
+
+This version organizes the information into bullet points, clarifies the actions needed, and provides a clear distinction between the different motherboard types and their compatibility issues.
 
 
 LASTEST FIRMWARE WILL BE ONLY HERE.
