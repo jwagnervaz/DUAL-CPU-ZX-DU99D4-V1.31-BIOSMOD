@@ -12,21 +12,20 @@ There are two types of ZX-DU99D4 motherboards with significant hardware differen
    - You must first backup your BIOS using FPT. Download it [here](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/blob/main/FPT/FPT.zip) (Note: AFUWIN does not create a full backup BIOS).
 
 2. **For motherboards with BIOS versions equal to or newer than (10/30/2023) ZX-DU99D4 DU994305:**
+   - You must first backup your BIOS using FPT. Download it [here](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/blob/main/FPT/FPT.zip) (Note: AFUWIN does not create a full backup BIOS).
    - These have different hardware and BIOS compatibility.
 
 **Important Notes:**
-- Flashing the wrong BIOS version can result in errors (b7) or (61).
-- To identify your BIOS version, check it in your BIOS settings.
+- Flashing the wrong BIOS version can result in errors (b7) or (61). and you will need a ch341 and flip to flash your bios chip with yout backup.
+- To identify your BIOS version, check it in your BIOS settings. hit (DEL) when turn your PC on and discovery your version.
 
 **Compatibility Update:**
 - I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304.
-- This allows older motherboard owners to use newer BIOS versions.
+- This allows older motherboard owners to use newer BIOS versions like (03/06/2024)ZX-DU99D4 V1.3 DU994306  (HERE)
 
 ---
-
-This version organizes the information into bullet points, clarifies the actions needed, and provides a clear distinction between the different motherboard types and their compatibility issues.
-
-
+OLDER VERSIONS BELLOW!
+______________________________________________________________________
 LASTEST FIRMWARE WILL BE ONLY HERE.
 https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/LASTEST
 (05/06/2023)ZX-DU99D4 V1.3
