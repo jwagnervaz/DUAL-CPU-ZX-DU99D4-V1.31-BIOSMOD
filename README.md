@@ -17,7 +17,7 @@ There are two types of ZX-DU99D4 motherboards with significant hardware differen
 
 **Important Notes:**
 - Flashing the wrong BIOS version can result in errors (b7) or (61). and you will need a ch341 and flip to flash your bios chip with yout backup.
-- To identify your BIOS version, check it in your BIOS settings. hit (DEL) when turn your PC on and discovery your version.
+- To identify your BIOS version, check it in your BIOS settings. hit (DEL) when turn your PC on and discover your version.
 
 **Compatibility Update:**
 - I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304.
