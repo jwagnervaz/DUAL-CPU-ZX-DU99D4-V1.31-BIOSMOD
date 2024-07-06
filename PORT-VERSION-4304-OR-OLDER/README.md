@@ -29,6 +29,8 @@ Fixes:
 
 13 - Ram SET to AUTO, for E5 V3/V4 Compat.
 
+14 - Numa enable by default
+
 
 https://valid.x86.fr/9xz88q BIOS VALIDATION!
 
