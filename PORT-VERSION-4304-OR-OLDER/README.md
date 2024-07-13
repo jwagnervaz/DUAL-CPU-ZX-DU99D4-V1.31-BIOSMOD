@@ -31,6 +31,8 @@ Fixes:
 
 14 - Numa enable by default
 
+14 - ASPM support port ( By Default )
+
 
 https://valid.x86.fr/9xz88q BIOS VALIDATION!
 
