@@ -33,6 +33,8 @@ Fixes:
 
 15 - ASPM support port ( By Default )
 
+16 - RAID driver UPDATED for EFI Intel VROC for sSATA/SATA - 6.3.0.1005  (LEGACY DRIVER REMAINED OROM Intel RSTe for SATA - 4.5.0.1012 FOR COMPATIBILITY)
+
 
 https://valid.x86.fr/9xz88q BIOS VALIDATION!
 
