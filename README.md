@@ -1,4 +1,14 @@
 
+NEW BIOS RELEASED 08/09/2024 WITH THIS ADD CHANGELOG
+
+14 - NUMA enable by default
+
+15 - ASPM support (PORT BY ME)
+
+16 - RAID driver UPDATED for EFI Intel VROC for sSATA/SATA - 6.3.0.1005 (LEGACY DRIVER REMAINED OROM Intel RSTe for SATA - 4.5.0.1012 FOR COMPATIBILITY) (PORT BY ME)
+
+17 - Ethernet driver UPDATED for EFI Realtek UNDI Driver - 2.066 (PORT BY ME) OROM Realtek Boot Agent GE - 2.70****
+
 
 ---
 
