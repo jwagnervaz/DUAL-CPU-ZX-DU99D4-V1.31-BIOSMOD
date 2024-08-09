@@ -29,6 +29,7 @@ There are two types of ZX-DU99D4 motherboards with significant hardware differen
 
 **Important Notes:**
 - Flashing the wrong BIOS version can result in errors (b7) or (61). and you will need a ch341 and flip to flash your bios chip with yout backup.
+- If you get error  (AF), unplug the pc from power cord and press power for 5 seconds, this will erase your CMOS.
 - To identify your BIOS version, check it in your BIOS settings. hit (DEL) when turn your PC on and discover your version.
 
 **Compatibility Update:**
