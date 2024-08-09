@@ -5,7 +5,7 @@ Fixes:
 
 1 - CPU Microcode Updated for ver 0xB000040 (E5 v4) and 3D (E5 V3)
 
-2 - UEFI boot mode fixed
+2 - UEFI boot mode fixed (CSM WORKING TOO)
 
 3 - Memory Timmings Functions enabled
 
@@ -15,11 +15,11 @@ Fixes:
 
 6 - ME UPDATED TO 3.1.3.131 (Latest provided by intel to this chipset C610/C612)
 
-7 - Boot time improved
+7 - Boot time improved (ABOUT 20 SEC) 
 
 8 - Overclock Settings ( Take Care)
 
-9 - RTC Wakeup Working
+9 - RTC Wakeup Working (PORT BY ME)
 
 10 - IMC Updated
 
@@ -29,13 +29,13 @@ Fixes:
 
 13 - Ram SET to AUTO, for E5 V3/V4 Compat.
 
-14 - Numa enable by default
+14 - NUMA enable by default
 
-15 - ASPM support port ( By Default )
+15 - ASPM support (PORT BY ME)
 
-16 - RAID driver UPDATED for EFI Intel VROC for sSATA/SATA - 6.3.0.1005  (LEGACY DRIVER REMAINED OROM Intel RSTe for SATA - 4.5.0.1012 FOR COMPATIBILITY)
+16 - RAID driver UPDATED for EFI Intel VROC for sSATA/SATA - 6.3.0.1005  (LEGACY DRIVER REMAINED OROM Intel RSTe for SATA - 4.5.0.1012 FOR COMPATIBILITY) (PORT BY ME)
 
-17 - Ethernet driver UPDATED for  EFI Realtek UNDI Driver     - 2.066
+17 - Ethernet driver UPDATED for  EFI Realtek UNDI Driver     - 2.066    (PORT BY ME)
                                   OROM Realtek Boot Agent GE  - 2.70****
 
 
