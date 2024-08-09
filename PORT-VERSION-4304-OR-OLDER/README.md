@@ -35,6 +35,9 @@ Fixes:
 
 16 - RAID driver UPDATED for EFI Intel VROC for sSATA/SATA - 6.3.0.1005  (LEGACY DRIVER REMAINED OROM Intel RSTe for SATA - 4.5.0.1012 FOR COMPATIBILITY)
 
+17 - Ethernet driver UPDATED for  EFI Realtek UNDI Driver     - 2.066
+                                  OROM Realtek Boot Agent GE  - 2.70****
+
 
 https://valid.x86.fr/9xz88q BIOS VALIDATION!
 
