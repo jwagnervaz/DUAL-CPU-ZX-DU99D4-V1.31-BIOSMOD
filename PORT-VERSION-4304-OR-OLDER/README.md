@@ -41,6 +41,9 @@ Fixes:
 
 https://valid.x86.fr/9xz88q BIOS VALIDATION!
 
+Drivers for VROC 
+64bit Intel RSTe AHCI & RAID drivers v14.8.18.1066 WHQL and for Status software Intel RSTe Drivers & Software Set v14.8.18.1066 WHQL
+
 
 
 
