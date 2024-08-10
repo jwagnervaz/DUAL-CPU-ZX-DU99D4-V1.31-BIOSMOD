@@ -1,6 +1,8 @@
 
 NEW BIOS RELEASED 08/09/2024 WITH THIS ADD CHANGELOG
 
+For motherboards with BIOS versions equal to or older than (05/06/2023) ZX-DU99D4 DU994304:
+
 4 - REBAR support integraded IN NATIVE WAY/BIOS SETUP MENU (PORT BY ME) NEED A GPU UEFI GOP/REBAR COMPATIBLE
 
 14 - NUMA enable by default
