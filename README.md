@@ -44,6 +44,9 @@ Fixes:
                                   Tianocore EDK2 2.2 24H1 (PORTED BY ME) [(BUILD FROM)](https://github.com/tianocore/edk2/releases/tag/edk2-stable202405)
 
 DOWNLOAD  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
+
+BIOS CPUID VALIDATION:
+https://valid.x86.fr/n1jc19
                                   
 DONATE VIA PAYPAL EMAIL: JWAGNERVAZ@MSN.COM
 ---
