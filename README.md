@@ -41,7 +41,7 @@ Fixes:
                                   OROM Realtek Boot Agent GE  - 2.70**** (PORT BY ME)
 
 18 - Shell Bult-in fixed (NEVER WORKED IN THIS BOARD)
-                                  Tianocore EDK2 2.2 24H1 (PORTED BY ME)
+                                  Tianocore EDK2 2.2 24H1 (PORTED BY ME) [(BUILD FROM)](https://github.com/tianocore/edk2/releases/tag/edk2-stable202405)
 
 DOWNLOAD  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
                                   
