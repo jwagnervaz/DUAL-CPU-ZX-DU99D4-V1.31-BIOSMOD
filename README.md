@@ -35,7 +35,7 @@ Fixes:
 15 - ASPM L1 support (PORT BY ME)
 
 16 - RAID driver UPDATED for EFI Intel VROC for sSATA/SATA - 8.0.0.4006  AND  OROM Intel VROC for sSATA/SATA  - 6.3.0.1005 (PORT BY ME)
-                                  1ST PORT IN THE WORD FROM X399/X299 TO X99 
+                                  1ST PORT IN THE WORLD FROM X399/X299 TO X99 
                                   
 17 - Ethernet driver UPDATED for  EFI Realtek UNDI Driver     - 2.046    
                                   OROM Realtek Boot Agent GE  - 2.70**** (PORT BY ME)
