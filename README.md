@@ -42,6 +42,8 @@ Fixes:
 
 18 - Shell Bult-in fixed (NEVER WORKED IN THIS BOARD)
                                   Tianocore EDK2 2.2 24H1 (PORTED BY ME)
+
+DOWNLOAD  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
                                   
 
 ---
