@@ -45,7 +45,7 @@ Fixes:
 
 DOWNLOAD  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
                                   
-
+DONATE VIA PAYPAL EMAIL: JWAGNERVAZ@MSN.COM
 ---
 
 **ATTENTION!**
