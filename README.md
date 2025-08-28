@@ -106,7 +106,7 @@ If you dont have, your Pc Will not BOOT.
 check compatibility WITH GPU-Z.
 
 all my BIOS is compatible with 
-ZX-DU99D4-V1.31,ZX-DU99D4-V1.12 (tested by @xWaRLoRDx), in theory it could work with all rev of this board till V1.31
+ZX-DU99D4-V1.31,ZX-DU99D4-V1.12 (tested by @xWaRLoRDx) ZX-DU99D4-V1.11 (tested by @MrPurple666), in theory it could work with all rev of this board till V1.31
 
 
 
