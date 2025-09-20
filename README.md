@@ -1,4 +1,4 @@
-
+8
 THIS BIOS VERSION IS A PORT I MADE FOR OLD BOARDS WITH 4304 OR OLDER BIOS VERSION
 DONT FLASH INTO A 4305 OR NEWER CAUSE IT WILL BRICK YOUR BIOS AND YOU WILL NEED CH341 FOR UNBRICK.
 
@@ -55,7 +55,9 @@ DOWNLOAD  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMO
 BIOS CPUID VALIDATION:
 https://valid.x86.fr/n1jc19
                                   
-DONATE VIA PAYPAL EMAIL: JWAGNERVAZ@MSN.COM
+DONATE VIA PAYPAL EMAIL:
+https://www.paypal.com/donate/?business=CCB45NYKUULWE&no_recurring=0&item_name=Thanks+for+your+donate%21&currency_code=USD
+JWAGNERVAZ@MSN.COM
 ---
 
 **ATTENTION!**
