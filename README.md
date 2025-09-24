@@ -56,8 +56,10 @@ BIOS CPUID VALIDATION:
 https://valid.x86.fr/n1jc19
                                   
 DONATE VIA PAYPAL EMAIL:
-https://www.paypal.com/donate/?business=CCB45NYKUULWE&no_recurring=0&item_name=Thanks+for+your+donate%21&currency_code=USD
-JWAGNERVAZ@MSN.COM
+BOOTSECURE + TPM PORT 152
+
+Donate and support this project!
+[Donate Here!](https://www.paypal.com/donate/?business=CCB45NYKUULWE&no_recurring=0&item_name=Thanks+for+your+donate%21&currency_code=USD)
 ---
 
 **ATTENTION!**
