@@ -180,6 +180,13 @@ Bugs:
 BIOSMOD for DUAL CPU ZX-DU99D4 V1.31 
 
 
+Donate list:
+
+https://github.com/ShaneOss
+https://github.com/Glitch-Codes
+
+
+
 
 RAM SET FROM AUTO TO 2400 / 2133 or AUTO it depends from version you downloaded
 Note: Microcodes updated from stock bios for Rev. 0xB000040 The build booted as you can see in ► Intel SA-00233 Patched ◄ https://valid.x86.fr/srbv9d
